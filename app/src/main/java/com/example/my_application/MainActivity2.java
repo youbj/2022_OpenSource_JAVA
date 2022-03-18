@@ -1,4 +1,3 @@
-/*
 package com.example.my_application;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -26,4 +25,4 @@ public class MainActivity2 extends AppCompatActivity {
             }
         });
     }
-}*/
+}
