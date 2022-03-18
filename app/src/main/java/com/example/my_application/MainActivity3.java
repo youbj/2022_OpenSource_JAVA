@@ -1,7 +1,6 @@
 package com.example.my_application;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.ButtonBarLayout;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -34,7 +33,8 @@ public class MainActivity3 extends AppCompatActivity {
         button1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(getApplicationContext(),editText.getText(),Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(),editText.getText(),
+                        Toast.LENGTH_SHORT).show();
             }
         });
 
