@@ -29,7 +29,7 @@ public class Practice5_4 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_practice54);
 
-        setTitle("테이블 레이아웃 계산기");
+        setTitle("그리드 레이아웃 계산기");
 
         edit1=(EditText) findViewById(R.id.Edit1);
         edit2=(EditText) findViewById(R.id.Edit2);
