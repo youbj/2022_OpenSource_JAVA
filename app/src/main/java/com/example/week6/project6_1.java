@@ -22,7 +22,7 @@ public class project6_1 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_mission61);
+        setContentView(R.layout.activity_project61);
         setTitle("시간 예약");
 
         Chronometer chrono = findViewById(R.id.chronometer1);
