@@ -10,7 +10,6 @@
         android:icon="@drawable/nana"
         android:label="6_7주차"
         android:logo="@drawable/nana"
-        android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Week6"
         android:usesCleartextTraffic="true">
@@ -68,7 +67,7 @@
             android:name=".project6_3"
             android:exported="false" />
         <activity
-            android:name=".project6_2"
+            android:name=".mission9"
             android:exported="false" />
         <activity
             android:name=".mission10"
@@ -77,7 +76,7 @@
             android:name=".project6_1"
             android:exported="false" />
         <activity
-            android:name=".mission9"
+            android:name=".project6_2"
             android:exported="true"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
