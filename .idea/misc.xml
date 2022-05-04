@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Public/Homework10/app/src/main/res/layout/activity_main.xml" value="0.29936594202898553" />
+        <entry key="..\:/Users/Public/Homework10/app/src/main/res/layout/activity_project101.xml" value="0.1" />
+        <entry key="..\:/Users/Public/Homework10/app/src/main/res/layout/activity_project102.xml" value="0.27077001013171226" />
+        <entry key="..\:/Users/Public/Homework10/app/src/main/res/layout/activity_project102_result.xml" value="0.27077001013171226" />
+        <entry key="..\:/Users/Public/Homework10/app/src/main/res/layout/activity_project103.xml" value="0.27077001013171226" />
+        <entry key="..\:/Users/Public/Homework10/app/src/main/res/layout/activity_task101.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Public/Homework10/app/src/main/res/layout/activity_task1012.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Public/Homework10/app/src/main/res/layout/activity_task1013.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Public/Homework10/app/src/main/res/layout/activity_task102.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Public/Homework10/app/src/main/res/layout/activity_task102_result.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Public/Homework10/app/src/main/res/layout/activity_task103.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Public/Homework10/app/src/main/res/layout/activity_task1032.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Public/Homework10/app/src/main/res/layout/project102_result.xml" value="0.27077001013171226" />
+        <entry key="..\:/Users/Public/Homework10/app/src/main/res/layout/second.xml" value="0.27077001013171226" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
