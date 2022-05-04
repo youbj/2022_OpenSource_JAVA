@@ -25,7 +25,7 @@ public class Task10_3 extends AppCompatActivity {
         btnNewActivity.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
 
-                Intent intent = new Intent(getApplicationContext(), SecondActivity.class);
+                Intent intent = new Intent(getApplicationContext(), Task10_3_2.class);
                 switch (rdoGroup.getCheckedRadioButtonId()) {
                     case R.id.rdoAdd:
                         intent.putExtra("Calc", "+");
