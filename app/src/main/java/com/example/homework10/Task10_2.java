@@ -41,7 +41,7 @@ public class Task10_2 extends AppCompatActivity {
         }
         btnResult.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                Intent intent = new Intent(getApplicationContext(), Project10_2_result.class);
+                Intent intent = new Intent(getApplicationContext(), Task10_2_result.class);
                 intent.putExtra("VoteCount", vote);
                 intent.putExtra("ImageName", imgName);
                 startActivity(intent);
